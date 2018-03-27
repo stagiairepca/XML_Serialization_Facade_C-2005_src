@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Load-Save objects to XML">
+</Property><Property Name="Fichier solution" Value="C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Load-Save objects to XML.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Load-Save objects to XML.suo">
+</Property><Property Name="Date" Value="lundi 26 mars 2018">
+</Property><Property Name="Time" Value="15:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Load-Save objects to XML.sln" Description="Fichier correctement sauvegardé en tant que C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Backup\Load-Save objects to XML.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Load-Save objects to XML.suo" Description="Fichier correctement sauvegardé en tant que C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Backup\Load-Save objects to XML.suo">
+</Event><Event ErrorLevel="0" Project="Load-Save objects to XML" Source="Load-Save objects to XML.csproj" Description="Project file successfully backed up as C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Backup\Load-Save objects to XML.csproj">
+</Event><Event ErrorLevel="0" Project="Load-Save objects to XML" Source="Load-Save objects to XML.csproj.user" Description="Project user file successfully backed up as C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Backup\Load-Save objects to XML.csproj.user">
+</Event><Event ErrorLevel="0" Project="Load-Save objects to XML" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Load-Save objects to XML" Source="Customer.cs" Description="File successfully backed up as C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Backup\Customer.cs">
+</Event><Event ErrorLevel="0" Project="Load-Save objects to XML" Source="EmailAddress.cs" Description="File successfully backed up as C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Backup\EmailAddress.cs">
+</Event><Event ErrorLevel="0" Project="Load-Save objects to XML" Source="MainForm.cs" Description="File successfully backed up as C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Load-Save objects to XML" Source="ObjectXMLSerializer.cs" Description="File successfully backed up as C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Backup\ObjectXMLSerializer.cs">
+</Event><Event ErrorLevel="0" Project="Load-Save objects to XML" Source="App.ico" Description="File successfully backed up as C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Load-Save objects to XML" Source="MainForm.resx" Description="File successfully backed up as C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\Backup\MainForm.resx">
+</Event><Event ErrorLevel="1" Project="Load-Save objects to XML" Source="Load-Save objects to XML.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Load-Save objects to XML" Source="Load-Save objects to XML.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Load-Save objects to XML" Source="Load-Save objects to XML.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Load-Save objects to XML.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="Load-Save objects to XML.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Load-Save objects to XML" Source="Load-Save objects to XML.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

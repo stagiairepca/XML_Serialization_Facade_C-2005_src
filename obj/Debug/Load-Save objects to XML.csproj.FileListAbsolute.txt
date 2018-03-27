@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\bin\Debug\XML_Serialization_Wrapper.exe
+C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\bin\Debug\XML_Serialization_Wrapper.pdb
+C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\obj\Debug\disc1.MainForm.resources
+C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\obj\Debug\Load-Save objects to XML.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\obj\Debug\XML_Serialization_Wrapper.exe
+C:\Users\HP\Desktop\XML_Serialization_Facade_CS2005_src\XML_Serialization_Facade_C#2005_src\obj\Debug\XML_Serialization_Wrapper.pdb
